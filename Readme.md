@@ -1,4 +1,4 @@
-# Welcome to StackEdit!
+# App Cronômetro
 
 Olá, este é um app de cronômetro feito com **React Native**.
 
