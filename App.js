@@ -20,7 +20,7 @@ export default function App() {
       //Aqui vai parar o timer
       clearInterval(timer);
       timer = null; //quando pausou o timer
-      setStop('Continuar')
+      setStop('Retomar')
     }else{
       //Começar a girar o timer
       timer = setInterval(() => {
