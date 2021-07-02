@@ -92,7 +92,7 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
-    backgroundColor: '#00AEEF'
+    backgroundColor: '#051960'
   },
   timer: {
     marginTop: -160,
@@ -117,7 +117,7 @@ const styles = StyleSheet.create({
   btnTxt: {
     fontSize: 20,
     fontWeight: 'bold',
-    color: '#00AEEF'
+    color: '#051960'
   },
   historicArea: {
     marginTop: 60,
