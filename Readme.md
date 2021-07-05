@@ -6,40 +6,14 @@ As regras utilizadas para o funcionamento foram feitos com JavaScript puro, sem 
 
 ## Como funciona?
 
-Como qualquer outro cronômetro, ele inicia a contagem, pode parar o cronômetro, retomar e zerar a contagem.
+* Como qualquer outro cronômetro, ele inicia a contagem, pode parar o cronômetro, retomar e zerar a contagem.
+* Após zerarmos a contagem, é mostrado para o usuário um histórico do último tempo cronometrado 
 
-### Tela inicial do App
+### Apresentação do App
 
-
-![Countdown Layout](./src/img/countdown1.png)
-
-
-
-### Iniciando a contagem do cronômetro
-
-* Clicando em iniciar ele começa a contagem
+![Cronômetro](https://github.com/felipeamodio/Cronometro/blob/main/cronometro.gif)
 
 
-![Countdown Layout](./src/img/countdown2.png)
-
-
-
-### Parando e retomando a contagem
-
-* Clique em **Parar** e a contagem é interrompida
-* Clique em **Retomar** para continuar a contagem
-
-
-![Countdown Layout](./src/img/countdown4.png)
-
-
-
-### Zerar o cronômetro
-
-* Clicando a qualquer momento no botão **Zerar**, automaticamente o cronômetro zera a contagem e aparece o histórico da **Último Tempo** cadastrado abaixo
-
-
-![Countdown Layout](./src/img/countdown3.png)
 
 
 
